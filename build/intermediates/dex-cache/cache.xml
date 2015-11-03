@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-d5089d2d9562c8cf62a3aba4763582cf23aceb02.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-3ed31f324043cccecd14a1906077f644da9d0c43.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-0420a4ba7ec86b5b2da200cb9fa42247597225c2.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-e4f024e37863d19cb58667b29aa91b3f027354d5.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-84585e0b5555a410957143228b8a865a8b47df49.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-b09812f1bf3d137085d1517002cf35d0c1474ffe.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/.gradle/caches/modules-2/files-2.1/com.pubnub/pubnub-android-debug/3.7.5/a9f1c9ff960001d8e52343b3c9341b026f17dc69/pubnub-android-debug-3.7.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a9f1c9ff960001d8e52343b3c9341b026f17dc69">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/pubnub-android-debug-3.7.5-a856909e2ae821c563050812bb9397f01f7d1693.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-29720be47cd69306805d66f0c50af137735fd402.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/percent/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="fef469dcc3073ecc4706ba216479f2111e05834f">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-4f55c71be9aaa1cb06bd4e2c469c7cb5b06409fb.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-34ea42b9605d1ae5d9d044432477787d22ed5a7a.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-0a4d2ff3c982bae5aa1d767a8f9453070cf6e274.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-eb3d1fc9dffa4c6311cf2e5ce020f205bb39820a.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-f292bed67ab0834e276d10b60435ffd8b03e969e.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-4523da59d91a41082fc86b397f58426bf34f3923.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-f19f541f6de4c6697e21cbbc4bc308d9160f1121.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-1e6a06c4b693c2ce70562c3033dafb70019a25e9.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-a0e04e8e6c65a3b422a8713f13ac2188b6d4a573.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-37d20af7de5f7871afe8706b27f67460bf45a9b2.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-8d3d21c00d58504d56daa28c05a7d7335acb7c65.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-6b04bf3d6362c3dd15a8824734cbf09db83a56ff.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-fa54b806dff71e26d11e0b4d4192165464c32208.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-e6fb67175b28910cc5b3a7a99f3b3d6cf937ddc7.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-88892dad33b4f8d3fff8fd82f2333f7a4bcdbd85.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-c951072e89fd1696ebf1ea2a53a5de66003c6b2c.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-1e052f352a0ddc95b4e7002a96316445d4274cf4.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-e7ba35ef3f634e97213f56001f797794fbf4fe71.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-0926d57f75ba9318f289cb0c69120e84b01c3d2c.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-c7346a705117bf616cd52949f63029b0be136fa5.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-4212c15c64acf9263e3addd8808ce35c68a3f593.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-302c90c1a1d914ed190d24d55c55a070b200b7d0.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-0a0071918c4f3d74a88148257bc3ea382e223214.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/classes-1bf1337a3f7ea9fe4a4c8998c2b4fea33293871e.jar" />
+    </item>
+    <item
+        jar="/Users/Pilotly/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Pilotly/Documents/Development/pubnub-android-chat/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-828b6c866e4d2fecf1a476f8005c16d115bba6e0.jar" />
+    </item>
+
+</items>
